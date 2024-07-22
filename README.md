@@ -12,7 +12,7 @@ Below is an article that relates data scinece to a humanities topic that we are 
 
 Here is a sample data visualization I would like to be able to make with Python.
 
-![image.png](attachment:image.png)
+![Animal Research by Species in Estonia 2015](https://speakingofresearch.com/wp-content/uploads/2016/11/animal-research-by-species-in-estonia-pie-chart-2015.jpg?w=863)
 
 I find this image interesting as it represents data on animals that are used in research in Estonia. I think it is intriguing to be able to see data on which animals are typically utilized in research. This representation would be useful to many who are interested in learning about and protecting animal rights, especially in advancing the sciences.
 
